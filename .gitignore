@@ -1,4 +1,5 @@
 HELP.md
+.DS_Store
 cliente/target/
 producto/target/
 reclamo/target/
